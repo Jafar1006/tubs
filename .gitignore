@@ -1,0 +1,14 @@
+﻿# session PHP
+storage/sessions/*
+!storage/sessions/.gitkeep
+
+# file sementara OS / editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# backup & dump lokal
+*.sql.gz
+*.bundle
